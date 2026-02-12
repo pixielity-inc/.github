@@ -81,11 +81,11 @@ We specialize in building robust, scalable software solutions that drive busines
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixielity-inc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixielity-inc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true)](https://github.com/pixielity-inc)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pixielity-inc&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pixielity-inc&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)](https://github.com/pixielity-inc)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixielity-inc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixielity-inc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8)](https://github.com/pixielity-inc)
 
 </div>
 
@@ -95,7 +95,7 @@ We specialize in building robust, scalable software solutions that drive busines
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pixielity-inc&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pixielity-inc&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/pixielity-inc)
 
 </div>
 
@@ -105,7 +105,7 @@ We specialize in building robust, scalable software solutions that drive busines
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pixielity-inc&theme=react-dark&hide_border=true&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pixielity-inc&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/pixielity-inc)
 
 </div>
 
@@ -115,7 +115,6 @@ We specialize in building robust, scalable software solutions that drive busines
 
 <div align="center">
 
-[![Stub Generator](https://github-readme-stats.vercel.app/api/pin/?username=pixielity-inc&repo=stub-generator&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/pixielity-inc/stub-generator)
 [![CLI Tools](https://github-readme-stats.vercel.app/api/pin/?username=pixielity-inc&repo=cli&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/pixielity-inc/cli)
 
 </div>
@@ -152,17 +151,7 @@ We specialize in building robust, scalable software solutions that drive busines
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🎵 What We're Listening To
-
-<div align="center">
-
-[![Spotify](https://novatorem-pixielity.vercel.app/api/spotify)](https://open.spotify.com/user/pixielity)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/pixielity-inc)
 
 </div>
 
@@ -213,8 +202,6 @@ If you find our projects valuable, consider supporting us:
 <div align="center">
 
 ### 💻 "Innovation distinguishes between a leader and a follower." – Steve Jobs
-
-![Snake animation](https://raw.githubusercontent.com/pixielity-inc/pixielity-inc/output/github-contribution-grid-snake-dark.svg)
 
 **⭐️ Built with ❤️ by [Pixielity, Inc.](https://pixielity.com) | Co-creating the future of technology**
 
