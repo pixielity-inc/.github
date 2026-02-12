@@ -80,42 +80,23 @@ We specialize in building robust, scalable software solutions that drive busines
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixielity-inc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true)](https://github.com/pixielity-inc)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pixielity-inc&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)](https://github.com/pixielity-inc)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixielity-inc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8)](https://github.com/pixielity-inc)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pixielity-inc&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/pixielity-inc)
+<a href="https://github.com/pixielity-inc">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pixielity-inc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pixielity-inc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8"/>
+</a>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pixielity-inc&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/pixielity-inc)
-
-</div>
-
----
-
-## 🎨 Featured Projects
+## � Featured Projects
 
 <div align="center">
 
-[![CLI Tools](https://github-readme-stats.vercel.app/api/pin/?username=pixielity-inc&repo=cli&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/pixielity-inc/cli)
+<a href="https://github.com/pixielity-inc/cli">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pixielity-inc&repo=cli&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+</a>
 
 </div>
 
@@ -138,9 +119,9 @@ We specialize in building robust, scalable software solutions that drive busines
 
 [![Website](https://img.shields.io/badge/Website-pixielity.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pixielity.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/pixielity)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pixielityinc)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pixielity)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@pixielity.com)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blog.pixielity.com)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.pixielity.com)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pixielity)
 
 </div>
@@ -151,7 +132,7 @@ We specialize in building robust, scalable software solutions that drive busines
 
 <div align="center">
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/pixielity-inc)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
 </div>
 
